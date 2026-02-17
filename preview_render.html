@@ -1,4 +1,42 @@
-# Partha Saha
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>README Preview</title>
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        body {
+            box-sizing: border-box;
+            min-width: 200px;
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 45px;
+        }
+
+        @media (max-width: 767px) {
+            body {
+                padding: 15px;
+            }
+        }
+
+        /* Dark mode support */
+        @media (prefers-color-scheme: dark) {
+            body {
+                background-color: #0d1117;
+                color: #c9d1d9;
+            }
+        }
+    </style>
+</head>
+
+<body class="markdown-body">
+    <div id="content"></div>
+    <script>
+        const markdown = `# Partha Saha
 ## Co-Founder & CTO | Project Manager | Sr. Business Analyst | Full Stack Developer
 
 <div align="center">
@@ -110,5 +148,10 @@ I am also the **Co-Founder & CTO** of **Quest AI Technologies Ltd** and **Kompas
   <a href="mailto:partha.saha@softcellbd.net">
     <img src="https://img.shields.io/badge/Email-partha.saha@softcellbd.net-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <!-- Add LinkedIn or other links here -->
 </div>
+`;
+        document.getElementById('content').innerHTML = marked.parse(markdown);
+    </script>
+</body>
+
+</html>
