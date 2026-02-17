@@ -120,16 +120,15 @@ My technical arsenal includes a wide array of languages, frameworks, and infrast
 
 ### 💼 Professional Journey
 
-| **Role** | **Company** | **Timeline** |
-| :--- | :--- | :--- |
-| **Co-Founder & CTO** | 🌟 *Quest AI Technologies Ltd* | **Present** |
-| **Co-Founder & CTO** | 🌟 *Kompass Technologies Ltd* | **Present** |
-| **Project Manager** | 🏢 *Softcell Solution Limited* | Aug 2022 - Present |
-| **Sr. Business Analyst** | 🏢 *Softcell Solution Limited* | Aug 2019 - Present |
-| **Business Analyst** | 📉 *Zoponic Limited* | May 2014 - Jul 2019 |
-| **System Administrator** | 🖥️ *Dominage Group* | Mar 2012 - May 2014 |
-| **Linux Trainer** | 🎓 *Desktop IT* | Mar 2008 - Sep 2012 |
-
+| **Position** |
+| :--- |
+| **Co-Founder & CTO** |
+| **Project Manager** |
+| **Sr. Business Analyst** |
+| **Business Analyst** |
+| **System Administrator** |
+| **Linux Trainer** |
+| **Zonal Controller Incharge** |
 ---
 
 ### 📊 GitHub Analytics
