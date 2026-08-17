@@ -98,7 +98,7 @@ My technical arsenal includes a wide array of languages, frameworks, and infrast
 
 | Project Name | Domain / Sector | Year | Status |
 | :--- | :--- | :---: | :---: |
-| **Kormo Solution** | ![HR Tech](https://img.shields.io/badge/HR_Tech-005696?style=flat-square&logo=cashapp&logoColor=white) | `2026` | ![Running](https://img.shields.io/badge/Running-2EA44F?style=flat-square) |
+| **Certify Solution** | ![HR Tech](https://img.shields.io/badge/HR_Tech-005696?style=flat-square&logo=cashapp&logoColor=white) | `2026`| **Audix Solution** | ![HR Tech](https://img.shields.io/badge/HR_Tech-005696?style=flat-square&logo=cashapp&logoColor=white) | `2026`| **Uclick Solution** | ![HR Tech](https://img.shields.io/badge/HR_Tech-005696?style=flat-square&logo=cashapp&logoColor=white) | `2026`| **Kormo Solution** | ![HR Tech](https://img.shields.io/badge/HR_Tech-005696?style=flat-square&logo=cashapp&logoColor=white) | `2026` | ![Running](https://img.shields.io/badge/Running-2EA44F?style=flat-square) |
 | **Ai Cloud Solution** | ![AI](https://img.shields.io/badge/AI-005696?style=flat-square&logo=cashapp&logoColor=white) | `2025` | ![Running](https://img.shields.io/badge/Running-2EA44F?style=flat-square) |
 | **Biometric Loan Verification** | ![Finance](https://img.shields.io/badge/Banks_%26_Fintech-005696?style=flat-square&logo=cashapp&logoColor=white) | `2024` | ![Running](https://img.shields.io/badge/Running-2EA44F?style=flat-square) |
 | **Amar Hisab Kitab** | ![Finance](https://img.shields.io/badge/Banks_%26_Fintech-005696?style=flat-square&logo=cashapp&logoColor=white) | `2024` | ![Running](https://img.shields.io/badge/Running-2EA44F?style=flat-square) |
